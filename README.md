@@ -7,6 +7,10 @@ Going to start with user modeling
 Landing Page -> Signup / Register -> Manage Account -> Email Verification
 -> Coin Repository
 
+# Other Items
+Book Repository
+
+
 
 
 
