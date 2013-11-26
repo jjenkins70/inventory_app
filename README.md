@@ -2,7 +2,7 @@ Ruby on Rails with Postgresql Inventory App
 
 Going to start with user modeling 
 
-I am using the examples from youtube.com/watch?v=dKe2sP-NAxQ
+I am using the examples from www.youtube.com/watch?v=9FEEDDXjeSw 
 
 
 #TODO
