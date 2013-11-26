@@ -3,7 +3,7 @@
 require 'spec_helper'
 
 describe 'account creation' do
-	if 'allows user to create account' do
+	it 'allows user to create account' do
 		visit root_path
 		click_link 'Create Account'
 
